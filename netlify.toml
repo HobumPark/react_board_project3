@@ -11,8 +11,8 @@
   force = true
 
 [[redirects]]
-  from = "/board/insert"
-  to = "http://mynodetest.cafe24app.com/board/insert"
+  from = "/board/write"
+  to = "http://mynodetest.cafe24app.com/board/write"
   status = 200
   force = true
 
